@@ -1,5 +1,5 @@
 
-# Data Migration & Quality Assurance: ETL Optimization using PostgreSQL, Elasticsearch, and Great Expectations
+# Employee Attrition Data Analysis: Automated ETL from PostgreSQL to Elasticsearch Using Airflow & Great Expectations
 
 ## Problem Statement
 This project aims to streamline and enhance the ETL processes involved in migrating data from a PostgreSQL database to Elasticsearch. While automation is a core objective, ensuring data quality, consistency, and reliability during these operations is equally crucial. Leveraging the capabilities of "Great Expectations," this project places a significant emphasis on validating data at each step, ensuring that the migrated data meets the defined quality standards. The dataset used in this initiative provides insights into factors influencing employee attrition rates in companies, making the need for precise and trustworthy data even more imperative.
