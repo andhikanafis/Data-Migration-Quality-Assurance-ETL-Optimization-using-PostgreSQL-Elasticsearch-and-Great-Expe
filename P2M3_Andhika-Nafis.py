@@ -1,12 +1,11 @@
 '''
 =================================================
-Milestone 3
+Employee Attrition Analysis: Streamlined ETL with Airflow & Great Expectations
 
 Nama  : Andhika Abdurachim Nafis
-Batch : HCK-007
 
 Program ini dirancang untuk mengotomatisasi transformasi dan pengisian data dari database PostgreSQL ke Elasticsearch Melalui Airflow.
-Data yang di digunakan Graded Challenge ini berfokus untuk mengenali faktor-faktor yang memengaruhi tingkat attrition (keluar) karyawan di perusahaan.
+Data yang digunakan untuk project ini berfokus untuk mengenali faktor-faktor yang memengaruhi tingkat attrition (keluar) karyawan di perusahaan.
 =================================================
 '''
 
